@@ -1,3 +1,4 @@
 import os
 #Interacting with working system os for ease accessibility
-ptint(Hello World);
+print(Hello World);
+#Displaying any type of value
